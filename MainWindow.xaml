@@ -1,0 +1,33 @@
+﻿<Window x:Class="Gerenciador_de_Vendas.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Gerenciador_de_Vendas"
+        mc:Ignorable="d"
+        Title="Gerenciador de Vendas"
+        Height="450" Width="800"
+        ResizeMode="NoResize"
+        WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Border BorderThickness="1" HorizontalAlignment="Center" Height="118" Margin="0,2,0,0" VerticalAlignment="Top" Width="800">
+            <Border.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF3E7FD9"/>
+                    <GradientStop Color="White" Offset="1"/>
+                </LinearGradientBrush>
+            </Border.Background>
+            <Grid>
+                <Label Content="Point of Sale" Height="49" Margin="9,15,0,0" Width="313" FontSize="36" FontFamily="Tw Cen MT Condensed Extra Bold" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+            </Grid>
+        </Border>
+        <Button x:Name="btnVenda" Content="VENDAS"  Style="{StaticResource EstiloPadraoBotao}" HorizontalAlignment="Left" Height="115" Margin="229,110,0,0" VerticalAlignment="Top" Width="144" FontFamily="Tw Cen MT" Opacity="0.75" BorderBrush="{x:Null}" Click="btnVenda_Click"/>
+        <Button x:Name="btnClientes" Content="CLIENTES"  Style="{StaticResource EstiloPadraoBotao}" HorizontalAlignment="Left" Height="115" Margin="482,110,0,0" VerticalAlignment="Top" Width="144" FontFamily="Tw Cen MT" Opacity="0.75" BorderBrush="{x:Null}" Click="btnClientes_Click"/>
+        <Button x:Name="btnProdutos" Content="PRODUTOS" Style="{StaticResource EstiloPadraoBotao}" HorizontalAlignment="Left" Height="115" Margin="229,271,0,0" VerticalAlignment="Top" Width="144" FontFamily="Tw Cen MT" Opacity="0.75" BorderBrush="{x:Null}" Click="btnProdutos_Click"/>
+        <Button x:Name="btnFornecedores" Content="FORNECEDORES" Style="{StaticResource EstiloPadraoBotao}" HorizontalAlignment="Left" Height="115" Margin="482,271,0,0" VerticalAlignment="Top" Width="144" FontFamily="Tw Cen MT" Opacity="0.75" BorderBrush="{x:Null}" Click="btnFornecedores_Click"/>
+        <Button x:Name="btnSair" Content="SAIR" Style="{StaticResource EstiloPadraoBotao}" HorizontalAlignment="Left" Height="53" Margin="722,24,0,0" VerticalAlignment="Top" Width="50" FontFamily="Tw Cen MT" Opacity="0.75" BorderBrush="{x:Null}" Click="btnSair_Click"/>
+        <Border BorderBrush="Transparent" BorderThickness="1" HorizontalAlignment="Left" Height="82" Margin="229,10,0,0" VerticalAlignment="Top" Width="397">
+            <Label x:Name="lblDataHora" Content="Label DATA E HORA" Style="{StaticResource EstiloDataeHora}"  HorizontalAlignment="Left" Height="72" Margin="-1,9,0,0" VerticalAlignment="Top" Width="371"/>
+        </Border>
+    </Grid>
+</Window>

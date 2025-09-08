@@ -1,0 +1,225 @@
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\bin\Debug\net9.0-windows\Gerenciador de Vendas.exe
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\bin\Debug\net9.0-windows\Gerenciador de Vendas.dll
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\obj\Debug\net9.0-windows\Clientes.g.cs
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\obj\Debug\net9.0-windows\Fornecedores.g.cs
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\obj\Debug\net9.0-windows\Produtos.g.cs
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\obj\Debug\net9.0-windows\Vendas.g.cs
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\obj\Debug\net9.0-windows\Gerenciador de Vendas_MarkupCompile.cache
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\obj\Debug\net9.0-windows\Gerenciador de Vendas_MarkupCompile.lref
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\obj\Debug\net9.0-windows\Clientes.baml
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\obj\Debug\net9.0-windows\Fornecedores.baml
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\obj\Debug\net9.0-windows\Produtos.baml
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\obj\Debug\net9.0-windows\Vendas.baml
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\obj\Debug\net9.0-windows\Gerenciador de Vendas.g.resources
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\obj\Debug\net9.0-windows\Gerenciador de Vendas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\obj\Debug\net9.0-windows\Gerenciador de Vendas.AssemblyInfoInputs.cache
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\obj\Debug\net9.0-windows\Gerenciador de Vendas.AssemblyInfo.cs
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\obj\Debug\net9.0-windows\Gerenciador de Vendas.csproj.CoreCompileInputs.cache
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\obj\Debug\net9.0-windows\Gerenciador de Vendas.dll
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\obj\Debug\net9.0-windows\refint\Gerenciador de Vendas.dll
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\obj\Debug\net9.0-windows\Gerenciador de Vendas.pdb
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\bin\Debug\net9.0-windows\Gerenciador de Vendas.deps.json
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\bin\Debug\net9.0-windows\Gerenciador de Vendas.runtimeconfig.json
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\bin\Debug\net9.0-windows\Gerenciador de Vendas.pdb
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\obj\Debug\net9.0-windows\Gerenciador de Vendas.genruntimeconfig.cache
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\obj\Debug\net9.0-windows\ref\Gerenciador de Vendas.dll
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\obj\Debug\net9.0-windows\Estilos.baml
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\obj\Debug\net9.0-windows\App.baml
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\bin\Debug\net9.0-windows\Azure.Core.dll
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\bin\Debug\net9.0-windows\Azure.Identity.dll
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\bin\Debug\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\bin\Debug\net9.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\bin\Debug\net9.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\bin\Debug\net9.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\bin\Debug\net9.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\bin\Debug\net9.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\bin\Debug\net9.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\bin\Debug\net9.0-windows\System.ClientModel.dll
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\bin\Debug\net9.0-windows\System.Data.SqlClient.dll
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\bin\Debug\net9.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\bin\Debug\net9.0-windows\System.Memory.Data.dll
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\bin\Debug\net9.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\bin\Debug\net9.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\bin\Debug\net9.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\bin\Debug\net9.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\bin\Debug\net9.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\bin\Debug\net9.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\bin\Debug\net9.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\bin\Debug\net9.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\bin\Debug\net9.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\bin\Debug\net9.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\bin\Debug\net9.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\bin\Debug\net9.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\bin\Debug\net9.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\bin\Debug\net9.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\bin\Debug\net9.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\bin\Debug\net9.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\bin\Debug\net9.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\bin\Debug\net9.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\bin\Debug\net9.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\bin\Debug\net9.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\bin\Debug\net9.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\bin\Debug\net9.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\obj\Debug\net9.0-windows\Gerenciador de Vendas.csproj.AssemblyReference.cache
+C:\Users\Amorim\Desktop\Projeto Pessoal\Gerenciador de Vendas\Gerenciador de Vendas\obj\Debug\net9.0-windows\Gerencia.7A540E72.Up2Date
+C:\Users\Amorim\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\Gerenciador de Vendas.exe
+C:\Users\Amorim\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\Gerenciador de Vendas.deps.json
+C:\Users\Amorim\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\Gerenciador de Vendas.runtimeconfig.json
+C:\Users\Amorim\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\Gerenciador de Vendas.dll
+C:\Users\Amorim\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\Gerenciador de Vendas.pdb
+C:\Users\Amorim\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\Azure.Core.dll
+C:\Users\Amorim\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\Azure.Identity.dll
+C:\Users\Amorim\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Amorim\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\Amorim\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Amorim\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Amorim\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Amorim\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Amorim\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Amorim\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Amorim\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Amorim\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Amorim\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Amorim\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Amorim\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Amorim\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Amorim\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Amorim\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Amorim\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Amorim\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Amorim\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\System.ClientModel.dll
+C:\Users\Amorim\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Amorim\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\System.Memory.Data.dll
+C:\Users\Amorim\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Amorim\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Amorim\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Amorim\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Amorim\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Amorim\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Amorim\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Amorim\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Amorim\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Amorim\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Amorim\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Amorim\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Amorim\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Amorim\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Amorim\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Amorim\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Amorim\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Amorim\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Amorim\Desktop\Gerenciador de Vendas\obj\Debug\net9.0-windows\Gerenciador de Vendas.csproj.AssemblyReference.cache
+C:\Users\Amorim\Desktop\Gerenciador de Vendas\obj\Debug\net9.0-windows\Estilos.baml
+C:\Users\Amorim\Desktop\Gerenciador de Vendas\obj\Debug\net9.0-windows\Clientes.g.cs
+C:\Users\Amorim\Desktop\Gerenciador de Vendas\obj\Debug\net9.0-windows\Fornecedores.g.cs
+C:\Users\Amorim\Desktop\Gerenciador de Vendas\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\Amorim\Desktop\Gerenciador de Vendas\obj\Debug\net9.0-windows\Produtos.g.cs
+C:\Users\Amorim\Desktop\Gerenciador de Vendas\obj\Debug\net9.0-windows\Vendas.g.cs
+C:\Users\Amorim\Desktop\Gerenciador de Vendas\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\Amorim\Desktop\Gerenciador de Vendas\obj\Debug\net9.0-windows\Gerenciador de Vendas_MarkupCompile.cache
+C:\Users\Amorim\Desktop\Gerenciador de Vendas\obj\Debug\net9.0-windows\Gerenciador de Vendas_MarkupCompile.lref
+C:\Users\Amorim\Desktop\Gerenciador de Vendas\obj\Debug\net9.0-windows\App.baml
+C:\Users\Amorim\Desktop\Gerenciador de Vendas\obj\Debug\net9.0-windows\Clientes.baml
+C:\Users\Amorim\Desktop\Gerenciador de Vendas\obj\Debug\net9.0-windows\Fornecedores.baml
+C:\Users\Amorim\Desktop\Gerenciador de Vendas\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Users\Amorim\Desktop\Gerenciador de Vendas\obj\Debug\net9.0-windows\Produtos.baml
+C:\Users\Amorim\Desktop\Gerenciador de Vendas\obj\Debug\net9.0-windows\Vendas.baml
+C:\Users\Amorim\Desktop\Gerenciador de Vendas\obj\Debug\net9.0-windows\Gerenciador de Vendas.g.resources
+C:\Users\Amorim\Desktop\Gerenciador de Vendas\obj\Debug\net9.0-windows\Gerenciador de Vendas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amorim\Desktop\Gerenciador de Vendas\obj\Debug\net9.0-windows\Gerenciador de Vendas.AssemblyInfoInputs.cache
+C:\Users\Amorim\Desktop\Gerenciador de Vendas\obj\Debug\net9.0-windows\Gerenciador de Vendas.AssemblyInfo.cs
+C:\Users\Amorim\Desktop\Gerenciador de Vendas\obj\Debug\net9.0-windows\Gerenciador de Vendas.csproj.CoreCompileInputs.cache
+C:\Users\Amorim\Desktop\Gerenciador de Vendas\obj\Debug\net9.0-windows\Gerencia.7A540E72.Up2Date
+C:\Users\Amorim\Desktop\Gerenciador de Vendas\obj\Debug\net9.0-windows\Gerenciador de Vendas.dll
+C:\Users\Amorim\Desktop\Gerenciador de Vendas\obj\Debug\net9.0-windows\refint\Gerenciador de Vendas.dll
+C:\Users\Amorim\Desktop\Gerenciador de Vendas\obj\Debug\net9.0-windows\Gerenciador de Vendas.pdb
+C:\Users\Amorim\Desktop\Gerenciador de Vendas\obj\Debug\net9.0-windows\Gerenciador de Vendas.genruntimeconfig.cache
+C:\Users\Amorim\Desktop\Gerenciador de Vendas\obj\Debug\net9.0-windows\ref\Gerenciador de Vendas.dll
+C:\Users\rdamo\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\Gerenciador de Vendas.exe
+C:\Users\rdamo\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\Gerenciador de Vendas.deps.json
+C:\Users\rdamo\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\Gerenciador de Vendas.runtimeconfig.json
+C:\Users\rdamo\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\Gerenciador de Vendas.dll
+C:\Users\rdamo\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\Gerenciador de Vendas.pdb
+C:\Users\rdamo\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\Azure.Core.dll
+C:\Users\rdamo\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\Azure.Identity.dll
+C:\Users\rdamo\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rdamo\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\rdamo\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\rdamo\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\rdamo\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\rdamo\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\rdamo\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\rdamo\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\rdamo\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\rdamo\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\Microsoft.Identity.Client.dll
+C:\Users\rdamo\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\rdamo\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\rdamo\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rdamo\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\rdamo\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rdamo\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rdamo\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rdamo\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\rdamo\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\System.ClientModel.dll
+C:\Users\rdamo\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rdamo\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\System.Memory.Data.dll
+C:\Users\rdamo\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rdamo\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rdamo\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rdamo\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rdamo\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rdamo\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rdamo\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rdamo\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rdamo\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rdamo\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rdamo\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rdamo\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rdamo\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rdamo\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\rdamo\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\rdamo\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rdamo\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rdamo\Desktop\Gerenciador de Vendas\bin\Debug\net9.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rdamo\Desktop\Gerenciador de Vendas\obj\Debug\net9.0-windows\Gerenciador de Vendas.csproj.AssemblyReference.cache
+C:\Users\rdamo\Desktop\Gerenciador de Vendas\obj\Debug\net9.0-windows\Estilos.baml
+C:\Users\rdamo\Desktop\Gerenciador de Vendas\obj\Debug\net9.0-windows\Clientes.g.cs
+C:\Users\rdamo\Desktop\Gerenciador de Vendas\obj\Debug\net9.0-windows\Fornecedores.g.cs
+C:\Users\rdamo\Desktop\Gerenciador de Vendas\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\rdamo\Desktop\Gerenciador de Vendas\obj\Debug\net9.0-windows\Produtos.g.cs
+C:\Users\rdamo\Desktop\Gerenciador de Vendas\obj\Debug\net9.0-windows\Vendas.g.cs
+C:\Users\rdamo\Desktop\Gerenciador de Vendas\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\rdamo\Desktop\Gerenciador de Vendas\obj\Debug\net9.0-windows\Gerenciador de Vendas_MarkupCompile.cache
+C:\Users\rdamo\Desktop\Gerenciador de Vendas\obj\Debug\net9.0-windows\Gerenciador de Vendas_MarkupCompile.lref
+C:\Users\rdamo\Desktop\Gerenciador de Vendas\obj\Debug\net9.0-windows\App.baml
+C:\Users\rdamo\Desktop\Gerenciador de Vendas\obj\Debug\net9.0-windows\Clientes.baml
+C:\Users\rdamo\Desktop\Gerenciador de Vendas\obj\Debug\net9.0-windows\Fornecedores.baml
+C:\Users\rdamo\Desktop\Gerenciador de Vendas\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Users\rdamo\Desktop\Gerenciador de Vendas\obj\Debug\net9.0-windows\Produtos.baml
+C:\Users\rdamo\Desktop\Gerenciador de Vendas\obj\Debug\net9.0-windows\Vendas.baml
+C:\Users\rdamo\Desktop\Gerenciador de Vendas\obj\Debug\net9.0-windows\Gerenciador de Vendas.g.resources
+C:\Users\rdamo\Desktop\Gerenciador de Vendas\obj\Debug\net9.0-windows\Gerenciador de Vendas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rdamo\Desktop\Gerenciador de Vendas\obj\Debug\net9.0-windows\Gerenciador de Vendas.AssemblyInfoInputs.cache
+C:\Users\rdamo\Desktop\Gerenciador de Vendas\obj\Debug\net9.0-windows\Gerenciador de Vendas.AssemblyInfo.cs
+C:\Users\rdamo\Desktop\Gerenciador de Vendas\obj\Debug\net9.0-windows\Gerenciador de Vendas.csproj.CoreCompileInputs.cache
+C:\Users\rdamo\Desktop\Gerenciador de Vendas\obj\Debug\net9.0-windows\Gerencia.7A540E72.Up2Date
+C:\Users\rdamo\Desktop\Gerenciador de Vendas\obj\Debug\net9.0-windows\Gerenciador de Vendas.dll
+C:\Users\rdamo\Desktop\Gerenciador de Vendas\obj\Debug\net9.0-windows\refint\Gerenciador de Vendas.dll
+C:\Users\rdamo\Desktop\Gerenciador de Vendas\obj\Debug\net9.0-windows\Gerenciador de Vendas.pdb
+C:\Users\rdamo\Desktop\Gerenciador de Vendas\obj\Debug\net9.0-windows\Gerenciador de Vendas.genruntimeconfig.cache
+C:\Users\rdamo\Desktop\Gerenciador de Vendas\obj\Debug\net9.0-windows\ref\Gerenciador de Vendas.dll

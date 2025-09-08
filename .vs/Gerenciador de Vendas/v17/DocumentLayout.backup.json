@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rdamo\\Desktop\\Gerenciador de Vendas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66B0079D-17A8-4F2E-B40E-4C013099E467}|Gerenciador de Vendas.csproj|c:\\users\\rdamo\\desktop\\gerenciador de vendas\\produtos.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66B0079D-17A8-4F2E-B40E-4C013099E467}|Gerenciador de Vendas.csproj|solutionrelative:produtos.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B0079D-17A8-4F2E-B40E-4C013099E467}|Gerenciador de Vendas.csproj|c:\\users\\rdamo\\desktop\\gerenciador de vendas\\class\\acessodados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66B0079D-17A8-4F2E-B40E-4C013099E467}|Gerenciador de Vendas.csproj|solutionrelative:class\\acessodados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B0079D-17A8-4F2E-B40E-4C013099E467}|Gerenciador de Vendas.csproj|c:\\users\\rdamo\\desktop\\gerenciador de vendas\\class\\contextodados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66B0079D-17A8-4F2E-B40E-4C013099E467}|Gerenciador de Vendas.csproj|solutionrelative:class\\contextodados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B0079D-17A8-4F2E-B40E-4C013099E467}|Gerenciador de Vendas.csproj|c:\\users\\rdamo\\desktop\\gerenciador de vendas\\class\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66B0079D-17A8-4F2E-B40E-4C013099E467}|Gerenciador de Vendas.csproj|solutionrelative:class\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B0079D-17A8-4F2E-B40E-4C013099E467}|Gerenciador de Vendas.csproj|c:\\users\\rdamo\\desktop\\gerenciador de vendas\\fornecedores.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66B0079D-17A8-4F2E-B40E-4C013099E467}|Gerenciador de Vendas.csproj|solutionrelative:fornecedores.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B0079D-17A8-4F2E-B40E-4C013099E467}|Gerenciador de Vendas.csproj|c:\\users\\rdamo\\desktop\\gerenciador de vendas\\produtos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{66B0079D-17A8-4F2E-B40E-4C013099E467}|Gerenciador de Vendas.csproj|solutionrelative:produtos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B0079D-17A8-4F2E-B40E-4C013099E467}|Gerenciador de Vendas.csproj|c:\\users\\rdamo\\desktop\\gerenciador de vendas\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{66B0079D-17A8-4F2E-B40E-4C013099E467}|Gerenciador de Vendas.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContextoDados.cs",
+              "DocumentMoniker": "C:\\Users\\rdamo\\Desktop\\Gerenciador de Vendas\\Class\\ContextoDados.cs",
+              "RelativeDocumentMoniker": "Class\\ContextoDados.cs",
+              "ToolTip": "C:\\Users\\rdamo\\Desktop\\Gerenciador de Vendas\\Class\\ContextoDados.cs",
+              "RelativeToolTip": "Class\\ContextoDados.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T03:09:00.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AcessoDados.cs",
+              "DocumentMoniker": "C:\\Users\\rdamo\\Desktop\\Gerenciador de Vendas\\Class\\AcessoDados.cs",
+              "RelativeDocumentMoniker": "Class\\AcessoDados.cs",
+              "ToolTip": "C:\\Users\\rdamo\\Desktop\\Gerenciador de Vendas\\Class\\AcessoDados.cs",
+              "RelativeToolTip": "Class\\AcessoDados.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAIA4wLYAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T02:55:38.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Conexao.cs",
+              "DocumentMoniker": "C:\\Users\\rdamo\\Desktop\\Gerenciador de Vendas\\Class\\Conexao.cs",
+              "RelativeDocumentMoniker": "Class\\Conexao.cs",
+              "ToolTip": "C:\\Users\\rdamo\\Desktop\\Gerenciador de Vendas\\Class\\Conexao.cs",
+              "RelativeToolTip": "Class\\Conexao.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAewBsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T02:55:37.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Fornecedores.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\rdamo\\Desktop\\Gerenciador de Vendas\\Fornecedores.xaml.cs",
+              "RelativeDocumentMoniker": "Fornecedores.xaml.cs",
+              "ToolTip": "C:\\Users\\rdamo\\Desktop\\Gerenciador de Vendas\\Fornecedores.xaml.cs",
+              "RelativeToolTip": "Fornecedores.xaml.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAewEMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T02:11:50.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Produtos.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\rdamo\\Desktop\\Gerenciador de Vendas\\Produtos.xaml.cs",
+              "RelativeDocumentMoniker": "Produtos.xaml.cs",
+              "ToolTip": "C:\\Users\\rdamo\\Desktop\\Gerenciador de Vendas\\Produtos.xaml.cs",
+              "RelativeToolTip": "Produtos.xaml.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAIA4wHkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T02:10:13.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Produtos.xaml",
+              "DocumentMoniker": "C:\\Users\\rdamo\\Desktop\\Gerenciador de Vendas\\Produtos.xaml",
+              "RelativeDocumentMoniker": "Produtos.xaml",
+              "ToolTip": "C:\\Users\\rdamo\\Desktop\\Gerenciador de Vendas\\Produtos.xaml",
+              "RelativeToolTip": "Produtos.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-27T22:55:55.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\rdamo\\Desktop\\Gerenciador de Vendas\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\rdamo\\Desktop\\Gerenciador de Vendas\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-27T22:55:43.397Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
